@@ -1,6 +1,13 @@
 {
-  "updatedAt": "2026-07-09T07:41:50-03:00",
+  "updatedAt": "2026-07-09T18:34:47-03:00",
   "albums": [
+    {
+      "id": "23881d",
+      "emoji": "🌆",
+      "title": "Beira Mar - Tarde/Noite - Fortaleza",
+      "date": "09/07/2026",
+      "url": "https://fotopix.com.br/album/23881d"
+    },
     {
       "id": "238819",
       "emoji": "🌊",
@@ -67,8 +74,8 @@
     {
       "id": "2325ab",
       "emoji": "🏅",
-      "title": "3ª Meia Maratona BNB Clube - Fortaleza",
-      "date": "05/07/2026",
+      "title": "3ª Meia Maratona BNB Clube - Fortaleza 05/07/2026",
+      "date": "",
       "url": "https://fotopix.com.br/album/2325ab"
     },
     {
@@ -98,13 +105,6 @@
       "title": "Beira Mar - Fortaleza",
       "date": "04/07/2026",
       "url": "https://fotopix.com.br/album/23256e"
-    },
-    {
-      "id": "23255a",
-      "emoji": "🌆",
-      "title": "Beira Mar - Tarde/Noite - Fortaleza",
-      "date": "03/07/2026",
-      "url": "https://fotopix.com.br/album/23255a"
     }
   ]
 }

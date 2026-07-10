@@ -1,6 +1,13 @@
 {
-  "updatedAt": "2026-07-10T07:48:47-03:00",
+  "updatedAt": "2026-07-10T18:34:32-03:00",
   "albums": [
+    {
+      "id": "238825",
+      "emoji": "🌆",
+      "title": "Beira Mar - Tarde/Noite - Fortaleza",
+      "date": "10/07/2026",
+      "url": "https://fotopix.com.br/album/238825"
+    },
     {
       "id": "238823",
       "emoji": "🌊",
@@ -98,13 +105,6 @@
       "title": "II Etapa Sprint Triathlon - Cumbuco",
       "date": "04/07/2026",
       "url": "https://fotopix.com.br/album/23629f"
-    },
-    {
-      "id": "232570",
-      "emoji": "🌆",
-      "title": "Beira Mar - Tarde/Noite - Fortaleza",
-      "date": "04/07/2026",
-      "url": "https://fotopix.com.br/album/232570"
     }
   ]
 }

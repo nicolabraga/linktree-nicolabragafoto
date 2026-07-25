@@ -1,6 +1,13 @@
 {
-  "updatedAt": "2026-07-24T10:49:31-03:00",
+  "updatedAt": "2026-07-25T15:30:57-03:00",
   "albums": [
+    {
+      "id": "244584",
+      "emoji": "🌊",
+      "title": "Beira Mar - Fortaleza",
+      "date": "25/07/2026",
+      "url": "https://fotopix.com.br/album/244584"
+    },
     {
       "id": "244579",
       "emoji": "🌊",
@@ -98,13 +105,6 @@
       "title": "CE040 - Fortaleza",
       "date": "17/07/2026",
       "url": "https://fotopix.com.br/album/2424e5"
-    },
-    {
-      "id": "23e92b",
-      "emoji": "🌊",
-      "title": "Beira Mar - Fortaleza",
-      "date": "18/07/2026",
-      "url": "https://fotopix.com.br/album/23e92b"
     }
   ]
 }

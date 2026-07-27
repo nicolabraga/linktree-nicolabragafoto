@@ -1,6 +1,13 @@
 {
-  "updatedAt": "2026-07-27T08:02:45-03:00",
+  "updatedAt": "2026-07-27T19:17:52-03:00",
   "albums": [
+    {
+      "id": "24a2ba",
+      "emoji": "🌆",
+      "title": "Beira Mar - Tarde/Noite - Fortaleza",
+      "date": "27/07/2026",
+      "url": "https://fotopix.com.br/album/24a2ba"
+    },
     {
       "id": "24a2af",
       "emoji": "🌊",
@@ -95,16 +102,9 @@
     {
       "id": "23e95c",
       "emoji": "📷",
-      "title": "4a CORRIDA SUPERMERCADO GUARA - Fortaleza 19/07/2026",
-      "date": "",
-      "url": "https://fotopix.com.br/album/23e95c"
-    },
-    {
-      "id": "23e933",
-      "emoji": "🌊",
-      "title": "Beira Mar - Fortaleza",
+      "title": "4a CORRIDA SUPERMERCADO GUARA - Fortaleza",
       "date": "19/07/2026",
-      "url": "https://fotopix.com.br/album/23e933"
+      "url": "https://fotopix.com.br/album/23e95c"
     }
   ]
 }

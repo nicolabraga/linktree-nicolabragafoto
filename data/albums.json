@@ -1,6 +1,27 @@
 {
-  "updatedAt": "2026-08-05T07:59:00-03:00",
+  "updatedAt": "2026-08-06T07:59:18-03:00",
   "albums": [
+    {
+      "id": "2507b8",
+      "emoji": "🌊",
+      "title": "Beira Mar - Fortaleza",
+      "date": "06/08/2026",
+      "url": "https://fotopix.com.br/album/2507b8"
+    },
+    {
+      "id": "2507ae",
+      "emoji": "🚴",
+      "title": "Sabiaguaba - Fortaleza",
+      "date": "06/08/2026",
+      "url": "https://fotopix.com.br/album/2507ae"
+    },
+    {
+      "id": "2507ac",
+      "emoji": "🌆",
+      "title": "Beira Mar - Tarde/Noite - Fortaleza",
+      "date": "05/08/2026",
+      "url": "https://fotopix.com.br/album/2507ac"
+    },
     {
       "id": "2507aa",
       "emoji": "🌊",
@@ -60,8 +81,8 @@
     {
       "id": "24cc54",
       "emoji": "📷",
-      "title": "ASICS RUN CHALLENGE 2026 - Fortaleza",
-      "date": "02/08/2026",
+      "title": "ASICS RUN CHALLENGE 2026 - Fortaleza 02/08/2026",
+      "date": "",
       "url": "https://fotopix.com.br/album/24cc54"
     },
     {
@@ -84,27 +105,6 @@
       "title": "Beira Mar - Fortaleza",
       "date": "31/07/2026",
       "url": "https://fotopix.com.br/album/24ba1d"
-    },
-    {
-      "id": "24ba18",
-      "emoji": "🌆",
-      "title": "Beira Mar - Tarde/Noite - Fortaleza",
-      "date": "30/07/2026",
-      "url": "https://fotopix.com.br/album/24ba18"
-    },
-    {
-      "id": "24b9ea",
-      "emoji": "🌊",
-      "title": "Beira Mar - Fortaleza",
-      "date": "30/07/2026",
-      "url": "https://fotopix.com.br/album/24b9ea"
-    },
-    {
-      "id": "24ba1a",
-      "emoji": "🚴",
-      "title": "Sabiaguaba - Fortaleza",
-      "date": "30/07/2026",
-      "url": "https://fotopix.com.br/album/24ba1a"
     }
   ]
 }

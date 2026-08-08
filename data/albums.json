@@ -1,6 +1,13 @@
 {
-  "updatedAt": "2026-08-07T19:19:44-03:00",
+  "updatedAt": "2026-08-08T08:09:03-03:00",
   "albums": [
+    {
+      "id": "2507d3",
+      "emoji": "🌊",
+      "title": "Beira Mar - Fortaleza",
+      "date": "08/08/2026",
+      "url": "https://fotopix.com.br/album/2507d3"
+    },
     {
       "id": "2507ca",
       "emoji": "🌆",
@@ -95,16 +102,9 @@
     {
       "id": "24cc54",
       "emoji": "📷",
-      "title": "ASICS RUN CHALLENGE 2026 - Fortaleza",
-      "date": "02/08/2026",
+      "title": "ASICS RUN CHALLENGE 2026 - Fortaleza 02/08/2026",
+      "date": "",
       "url": "https://fotopix.com.br/album/24cc54"
-    },
-    {
-      "id": "24ba30",
-      "emoji": "🌆",
-      "title": "Beira Mar - Tarde/Noite - Fortaleza",
-      "date": "01/08/2026",
-      "url": "https://fotopix.com.br/album/24ba30"
     }
   ]
 }

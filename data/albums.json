@@ -1,6 +1,13 @@
 {
-  "updatedAt": "2026-08-10T07:58:55-03:00",
+  "updatedAt": "2026-08-10T18:58:57-03:00",
   "albums": [
+    {
+      "id": "256234",
+      "emoji": "🌆",
+      "title": "Beira Mar - Tarde/Noite - Fortaleza",
+      "date": "10/08/2026",
+      "url": "https://fotopix.com.br/album/256234"
+    },
     {
       "id": "25622e",
       "emoji": "🌊",
@@ -98,13 +105,6 @@
       "title": "Beira Mar - Fortaleza",
       "date": "03/08/2026",
       "url": "https://fotopix.com.br/album/2506e0"
-    },
-    {
-      "id": "24f683",
-      "emoji": "📷",
-      "title": "Simulado Santitreinos - Fortaleza",
-      "date": "02/08/2026",
-      "url": "https://fotopix.com.br/album/24f683"
     }
   ]
 }

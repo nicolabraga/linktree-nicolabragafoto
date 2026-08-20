@@ -1,6 +1,13 @@
 {
-  "updatedAt": "2026-08-20T07:58:43-03:00",
+  "updatedAt": "2026-08-20T19:42:00-03:00",
   "albums": [
+    {
+      "id": "25e609",
+      "emoji": "🌆",
+      "title": "Beira Mar - Tarde/Noite - Fortaleza",
+      "date": "20/08/2026",
+      "url": "https://fotopix.com.br/album/25e609"
+    },
     {
       "id": "25e608",
       "emoji": "🌊",
@@ -74,7 +81,7 @@
     {
       "id": "25b929",
       "emoji": "📷",
-      "title": "Granado Pink 2026 - Fortaleza",
+      "title": "Granado Pink 2026 - Fortaleza 16/08/2026",
       "date": "16/08/2026",
       "url": "https://fotopix.com.br/album/25b929"
     },
@@ -98,13 +105,6 @@
       "title": "Beira Mar - Fortaleza",
       "date": "13/08/2026",
       "url": "https://fotopix.com.br/album/256250"
-    },
-    {
-      "id": "256248",
-      "emoji": "🚴",
-      "title": "Sabiaguaba - Fortaleza",
-      "date": "13/08/2026",
-      "url": "https://fotopix.com.br/album/256248"
     }
   ]
 }

@@ -1,6 +1,20 @@
 {
-  "updatedAt": "2026-08-26T19:12:44-03:00",
+  "updatedAt": "2026-08-27T07:58:00-03:00",
   "albums": [
+    {
+      "id": "265256",
+      "emoji": "🌊",
+      "title": "Beira Mar - Fortaleza",
+      "date": "27/08/2026",
+      "url": "https://fotopix.com.br/album/265256"
+    },
+    {
+      "id": "265252",
+      "emoji": "🚴",
+      "title": "Sabiaguaba - Fortaleza",
+      "date": "27/08/2026",
+      "url": "https://fotopix.com.br/album/265252"
+    },
     {
       "id": "265250",
       "emoji": "🌆",
@@ -91,20 +105,6 @@
       "title": "Beira Mar - Fortaleza",
       "date": "21/08/2026",
       "url": "https://fotopix.com.br/album/25e613"
-    },
-    {
-      "id": "25e609",
-      "emoji": "🌆",
-      "title": "Beira Mar - Tarde/Noite - Fortaleza",
-      "date": "20/08/2026",
-      "url": "https://fotopix.com.br/album/25e609"
-    },
-    {
-      "id": "25e608",
-      "emoji": "🌊",
-      "title": "Beira Mar - Fortaleza",
-      "date": "20/08/2026",
-      "url": "https://fotopix.com.br/album/25e608"
     }
   ]
 }

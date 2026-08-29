@@ -1,6 +1,13 @@
 {
-  "updatedAt": "2026-08-28T20:18:40-03:00",
+  "updatedAt": "2026-08-29T08:20:30-03:00",
   "albums": [
+    {
+      "id": "265262",
+      "emoji": "🌊",
+      "title": "Treino Beira Mar Corrida Manhã - Fortaleza",
+      "date": "29/08/2026",
+      "url": "https://fotopix.com.br/album/265262"
+    },
     {
       "id": "26525e",
       "emoji": "🌆",
@@ -81,8 +88,8 @@
     {
       "id": "261678",
       "emoji": "📷",
-      "title": "CORRIDA DO LAION - 2026 - Fortaleza",
-      "date": "16/08/2026",
+      "title": "CORRIDA DO LAION - 2026 - Fortaleza 16/08/2026",
+      "date": "",
       "url": "https://fotopix.com.br/album/261678"
     },
     {
@@ -98,13 +105,6 @@
       "title": "Beira Mar - Tarde/Noite - Fortaleza",
       "date": "22/08/2026",
       "url": "https://fotopix.com.br/album/25e61f"
-    },
-    {
-      "id": "25e61d",
-      "emoji": "🌊",
-      "title": "Beira Mar - Fortaleza",
-      "date": "22/08/2026",
-      "url": "https://fotopix.com.br/album/25e61d"
     }
   ]
 }

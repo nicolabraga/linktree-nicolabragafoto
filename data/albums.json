@@ -1,6 +1,27 @@
 {
-  "updatedAt": "2026-08-29T08:20:30-03:00",
+  "updatedAt": "2026-08-30T11:39:26-03:00",
   "albums": [
+    {
+      "id": "26526a",
+      "emoji": "🏊",
+      "title": "Challenge Brasil Triathlon - 2026 - Fortaleza",
+      "date": "30/08/2026",
+      "url": "https://fotopix.com.br/album/26526a"
+    },
+    {
+      "id": "265268",
+      "emoji": "🌊",
+      "title": "Treino Beira Mar Corrida Manhã - Fortaleza",
+      "date": "30/08/2026",
+      "url": "https://fotopix.com.br/album/265268"
+    },
+    {
+      "id": "265263",
+      "emoji": "🌆",
+      "title": "Treino Beira Mar Corrida - Tarde|Noite - Fortaleza",
+      "date": "29/08/2026",
+      "url": "https://fotopix.com.br/album/265263"
+    },
     {
       "id": "265262",
       "emoji": "🌊",
@@ -84,27 +105,6 @@
       "title": "Beira Mar - Tarde/Noite - Fortaleza",
       "date": "23/08/2026",
       "url": "https://fotopix.com.br/album/25e628"
-    },
-    {
-      "id": "261678",
-      "emoji": "📷",
-      "title": "CORRIDA DO LAION - 2026 - Fortaleza 16/08/2026",
-      "date": "",
-      "url": "https://fotopix.com.br/album/261678"
-    },
-    {
-      "id": "25e627",
-      "emoji": "🌊",
-      "title": "Beira Mar - Fortaleza",
-      "date": "23/08/2026",
-      "url": "https://fotopix.com.br/album/25e627"
-    },
-    {
-      "id": "25e61f",
-      "emoji": "🌆",
-      "title": "Beira Mar - Tarde/Noite - Fortaleza",
-      "date": "22/08/2026",
-      "url": "https://fotopix.com.br/album/25e61f"
     }
   ]
 }

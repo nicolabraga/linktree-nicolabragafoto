@@ -1,6 +1,13 @@
 {
-  "updatedAt": "2026-09-02T07:59:00-03:00",
+  "updatedAt": "2026-09-02T20:24:27-03:00",
   "albums": [
+    {
+      "id": "26b3fe",
+      "emoji": "🌆",
+      "title": "Treino Beira Mar Corrida Tarde|Noite - Fortaleza",
+      "date": "02/09/2026",
+      "url": "https://fotopix.com.br/album/26b3fe"
+    },
     {
       "id": "26b3fc",
       "emoji": "🌊",
@@ -46,8 +53,8 @@
     {
       "id": "26526a",
       "emoji": "🏊",
-      "title": "Challenge Brasil Triathlon - 2026 - Fortaleza",
-      "date": "30/08/2026",
+      "title": "Challenge Brasil Triathlon - 2026 - Fortaleza 30/08/2026",
+      "date": "",
       "url": "https://fotopix.com.br/album/26526a"
     },
     {
@@ -98,13 +105,6 @@
       "title": "Sabiaguaba - Fortaleza",
       "date": "27/08/2026",
       "url": "https://fotopix.com.br/album/265252"
-    },
-    {
-      "id": "265250",
-      "emoji": "🌆",
-      "title": "Beira Mar - Tarde/Noite - Fortaleza",
-      "date": "26/08/2026",
-      "url": "https://fotopix.com.br/album/265250"
     }
   ]
 }

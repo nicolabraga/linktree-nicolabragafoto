@@ -1,6 +1,20 @@
 {
-  "updatedAt": "2026-09-04T07:58:48-03:00",
+  "updatedAt": "2026-09-05T08:13:56-03:00",
   "albums": [
+    {
+      "id": "26b410",
+      "emoji": "🌊",
+      "title": "Treino Beira Mar Corrida Manhã - Fortaleza",
+      "date": "05/09/2026",
+      "url": "https://fotopix.com.br/album/26b410"
+    },
+    {
+      "id": "26dc1d",
+      "emoji": "📷",
+      "title": "Treino Washington Soares Corrida Manhã - Fortaleza",
+      "date": "04/09/2026",
+      "url": "https://fotopix.com.br/album/26dc1d"
+    },
     {
       "id": "26b40d",
       "emoji": "🌊",
@@ -74,8 +88,8 @@
     {
       "id": "26526a",
       "emoji": "🏊",
-      "title": "Challenge Brasil Triathlon - 2026 - Fortaleza",
-      "date": "30/08/2026",
+      "title": "Challenge Brasil Triathlon - 2026 - Fortaleza 30/08/2026",
+      "date": "",
       "url": "https://fotopix.com.br/album/26526a"
     },
     {
@@ -91,20 +105,6 @@
       "title": "Treino Beira Mar Corrida - Tarde|Noite - Fortaleza",
       "date": "29/08/2026",
       "url": "https://fotopix.com.br/album/265263"
-    },
-    {
-      "id": "265262",
-      "emoji": "🌊",
-      "title": "Treino Beira Mar Corrida Manhã - Fortaleza",
-      "date": "29/08/2026",
-      "url": "https://fotopix.com.br/album/265262"
-    },
-    {
-      "id": "26525e",
-      "emoji": "🌆",
-      "title": "Treino Beira Mar Corrida - Tarde|Noite - Fortaleza",
-      "date": "28/08/2026",
-      "url": "https://fotopix.com.br/album/26525e"
     }
   ]
 }

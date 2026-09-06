@@ -1,6 +1,13 @@
 {
-  "updatedAt": "2026-09-06T08:11:00-03:00",
+  "updatedAt": "2026-09-06T09:47:09-03:00",
   "albums": [
+    {
+      "id": "26b426",
+      "emoji": "📷",
+      "title": "42K Terra da Luz Corrida - 2026 - Fortaleza",
+      "date": "06/09/2026",
+      "url": "https://fotopix.com.br/album/26b426"
+    },
     {
       "id": "26b418",
       "emoji": "🌊",
@@ -95,16 +102,9 @@
     {
       "id": "26526a",
       "emoji": "🏊",
-      "title": "Challenge Brasil Triathlon - 2026 - Fortaleza 30/08/2026",
-      "date": "",
-      "url": "https://fotopix.com.br/album/26526a"
-    },
-    {
-      "id": "265268",
-      "emoji": "🌊",
-      "title": "Treino Beira Mar Corrida Manhã - Fortaleza",
+      "title": "Challenge Brasil Triathlon - 2026 - Fortaleza",
       "date": "30/08/2026",
-      "url": "https://fotopix.com.br/album/265268"
+      "url": "https://fotopix.com.br/album/26526a"
     }
   ]
 }

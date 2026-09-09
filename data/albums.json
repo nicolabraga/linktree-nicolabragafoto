@@ -1,6 +1,13 @@
 {
-  "updatedAt": "2026-09-09T07:58:03-03:00",
+  "updatedAt": "2026-09-09T19:11:49-03:00",
   "albums": [
+    {
+      "id": "270606",
+      "emoji": "🌆",
+      "title": "Treino Beira Mar Corrida Tarde|Noite - Fortaleza",
+      "date": "09/09/2026",
+      "url": "https://fotopix.com.br/album/270606"
+    },
     {
       "id": "270604",
       "emoji": "🌊",
@@ -47,7 +54,7 @@
       "id": "26b426",
       "emoji": "📷",
       "title": "42K Terra da Luz Corrida - 2026 - Fortaleza 06/09/2026",
-      "date": "06/09/2026",
+      "date": "",
       "url": "https://fotopix.com.br/album/26b426"
     },
     {
@@ -98,13 +105,6 @@
       "title": "Treino Beira Mar Corrida Tarde|Noite - Fortaleza",
       "date": "02/09/2026",
       "url": "https://fotopix.com.br/album/26b3fe"
-    },
-    {
-      "id": "26b3fc",
-      "emoji": "🌊",
-      "title": "Treino Beira Mar Corrida Manhã - Fortaleza",
-      "date": "02/09/2026",
-      "url": "https://fotopix.com.br/album/26b3fc"
     }
   ]
 }

@@ -1,6 +1,13 @@
 {
-  "updatedAt": "2026-09-12T09:08:09-03:00",
+  "updatedAt": "2026-09-12T09:21:59-03:00",
   "albums": [
+    {
+      "id": "274d79",
+      "emoji": "🌳",
+      "title": "Treino Ibiratemi Corrida Manhã - Fortaleza",
+      "date": "12/09/2026",
+      "url": "https://fotopix.com.br/album/274d79"
+    },
     {
       "id": "27067b",
       "emoji": "🌊",
@@ -98,13 +105,6 @@
       "title": "42K Terra da Luz Corrida - 2026 - Fortaleza 06/09/2026",
       "date": "",
       "url": "https://fotopix.com.br/album/26b426"
-    },
-    {
-      "id": "26b418",
-      "emoji": "🌊",
-      "title": "Treino Beira Mar Corrida Manhã - Fortaleza",
-      "date": "06/09/2026",
-      "url": "https://fotopix.com.br/album/26b418"
     }
   ]
 }

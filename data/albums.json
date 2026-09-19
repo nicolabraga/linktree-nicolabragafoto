@@ -1,6 +1,20 @@
 {
-  "updatedAt": "2026-09-19T08:07:30-03:00",
+  "updatedAt": "2026-09-19T20:02:00-03:00",
   "albums": [
+    {
+      "id": "27b654",
+      "emoji": "🏊",
+      "title": "Triathlon Olímpico - 2026 - Cumbuco",
+      "date": "19/09/2026",
+      "url": "https://fotopix.com.br/album/27b654"
+    },
+    {
+      "id": "278ca4",
+      "emoji": "🌆",
+      "title": "Treino Beira Mar Corrida Tarde|Noite - Fortaleza",
+      "date": "19/09/2026",
+      "url": "https://fotopix.com.br/album/278ca4"
+    },
     {
       "id": "278ca3",
       "emoji": "🌊",
@@ -91,20 +105,6 @@
       "title": "Treino Beira Mar Corrida Manhã - Fortaleza",
       "date": "13/09/2026",
       "url": "https://fotopix.com.br/album/27068d"
-    },
-    {
-      "id": "27067f",
-      "emoji": "🌆",
-      "title": "Treino Beira Mar Corrida Tarde|Noite - Fortaleza",
-      "date": "12/09/2026",
-      "url": "https://fotopix.com.br/album/27067f"
-    },
-    {
-      "id": "274d79",
-      "emoji": "📷",
-      "title": "Treino Ibiratemi Corrida Manhã - Fortaleza",
-      "date": "12/09/2026",
-      "url": "https://fotopix.com.br/album/274d79"
     }
   ]
 }

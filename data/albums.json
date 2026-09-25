@@ -1,6 +1,20 @@
 {
-  "updatedAt": "2026-09-24T07:51:53-03:00",
+  "updatedAt": "2026-09-25T08:35:31-03:00",
   "albums": [
+    {
+      "id": "27f908",
+      "emoji": "🌊",
+      "title": "Treino Beira Mar Corrida Manhã - Fortaleza",
+      "date": "25/09/2026",
+      "url": "https://fotopix.com.br/album/27f908"
+    },
+    {
+      "id": "27f902",
+      "emoji": "🌆",
+      "title": "Treino Beira Mar Corrida Tarde|Noite - Fortaleza",
+      "date": "24/09/2026",
+      "url": "https://fotopix.com.br/album/27f902"
+    },
     {
       "id": "27f900",
       "emoji": "🌊",
@@ -74,8 +88,8 @@
     {
       "id": "278cc2",
       "emoji": "🏃",
-      "title": "SANTANDER TRACK&FIELD RUN SERIES - SHOPPING DEL PASEO IICorrida - 2026 - Fortaleza",
-      "date": "20/09/2026",
+      "title": "SANTANDER TRACK&FIELD RUN SERIES - SHOPPING DEL PASEO IICorrida - 2026 - Fortaleza 20/09/2026",
+      "date": null,
       "url": "https://fotopix.com.br/album/278cc2"
     },
     {
@@ -91,20 +105,6 @@
       "title": "Triathlon Olímpico - 2026 - Cumbuco",
       "date": "19/09/2026",
       "url": "https://fotopix.com.br/album/27b654"
-    },
-    {
-      "id": "278ca4",
-      "emoji": "🌆",
-      "title": "Treino Beira Mar Corrida Tarde|Noite - Fortaleza",
-      "date": "19/09/2026",
-      "url": "https://fotopix.com.br/album/278ca4"
-    },
-    {
-      "id": "278ca3",
-      "emoji": "🌊",
-      "title": "Treino Beira Mar Corrida Manhã - Fortaleza",
-      "date": "19/09/2026",
-      "url": "https://fotopix.com.br/album/278ca3"
     }
   ]
 }

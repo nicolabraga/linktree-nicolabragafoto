@@ -1,6 +1,41 @@
 {
-  "updatedAt": "2026-09-25T21:07:43-03:00",
+  "updatedAt": "2026-09-27T09:10:18-03:00",
   "albums": [
+    {
+      "id": "27f912",
+      "emoji": "🌊",
+      "title": "Treino Beira Mar Corrida Manhã - Fortaleza",
+      "date": "27/09/2026",
+      "url": "https://fotopix.com.br/album/27f912"
+    },
+    {
+      "id": "2838de",
+      "emoji": "🏁",
+      "title": "Circuito Caixa - Corrida - 2026 - Fortaleza",
+      "date": "27/09/2026",
+      "url": "https://fotopix.com.br/album/2838de"
+    },
+    {
+      "id": "27f90f",
+      "emoji": "🌆",
+      "title": "Treino Beira Mar Corrida Tarde|Noite - Fortaleza",
+      "date": "26/09/2026",
+      "url": "https://fotopix.com.br/album/27f90f"
+    },
+    {
+      "id": "27f90d",
+      "emoji": "🌊",
+      "title": "Treino Beira Mar Corrida Manhã - Fortaleza",
+      "date": "26/09/2026",
+      "url": "https://fotopix.com.br/album/27f90d"
+    },
+    {
+      "id": "281f26",
+      "emoji": "📷",
+      "title": "Treino Washington Soares Corrida Manhã - Fortaleza",
+      "date": "26/09/2026",
+      "url": "https://fotopix.com.br/album/281f26"
+    },
     {
       "id": "27f90a",
       "emoji": "🌆",
@@ -70,41 +105,6 @@
       "title": "Treino Sabiaguaba Ciclismo CE010 - Fortaleza",
       "date": "22/09/2026",
       "url": "https://fotopix.com.br/album/27dbf0"
-    },
-    {
-      "id": "27dbdf",
-      "emoji": "🌆",
-      "title": "Treino Beira Mar Corrida Tarde|Noite - Fortaleza",
-      "date": "21/09/2026",
-      "url": "https://fotopix.com.br/album/27dbdf"
-    },
-    {
-      "id": "27dbb8",
-      "emoji": "🌊",
-      "title": "Treino Beira Mar Corrida Manhã - Fortaleza",
-      "date": "21/09/2026",
-      "url": "https://fotopix.com.br/album/27dbb8"
-    },
-    {
-      "id": "278cad",
-      "emoji": "🌆",
-      "title": "Treino Beira Mar Corrida Tarde|Noite - Fortaleza",
-      "date": "20/09/2026",
-      "url": "https://fotopix.com.br/album/278cad"
-    },
-    {
-      "id": "278cc2",
-      "emoji": "🏃",
-      "title": "SANTANDER TRACK&FIELD RUN SERIES - SHOPPING DEL PASEO IICorrida - 2026 - Fortaleza 20/09/2026",
-      "date": null,
-      "url": "https://fotopix.com.br/album/278cc2"
-    },
-    {
-      "id": "278cab",
-      "emoji": "🌊",
-      "title": "Treino Beira Mar Corrida Manhã - Fortaleza",
-      "date": "20/09/2026",
-      "url": "https://fotopix.com.br/album/278cab"
     }
   ]
 }

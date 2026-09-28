@@ -27,7 +27,7 @@ jobs:
         with:
           node-version: 22
       - name: Buscar álbuns novos no fotopix
-        run: run: node scripts/sync-fotopix.mjs nicolabragafoto
+        run: node scripts/sync-fotopix.mjs nicolabragafoto
       - name: Publicar (commit + push)
         run: |
           if git diff --quiet; then echo "Nada a publicar."; exit 0; fi

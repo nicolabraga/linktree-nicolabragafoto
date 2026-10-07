@@ -1,6 +1,13 @@
 {
-  "updatedAt": "2026-10-07T07:40:10-03:00",
+  "updatedAt": "2026-10-07T19:00:13-03:00",
   "albums": [
+    {
+      "id": "28a510",
+      "emoji": "🌆",
+      "title": "Treino Beira Mar Corrida Tarde|Noite - Fortaleza",
+      "date": "07/10/2026",
+      "url": "https://fotopix.com.br/album/28a510"
+    },
     {
       "id": "28a50f",
       "emoji": "🌊",
@@ -98,13 +105,6 @@
       "title": "Treino Sabiaguaba Ciclismo CE010 - Fortaleza",
       "date": "01/10/2026",
       "url": "https://fotopix.com.br/album/28531b"
-    },
-    {
-      "id": "285318",
-      "emoji": "🌆",
-      "title": "Treino Beira Mar Corrida Tarde|Noite - Fortaleza",
-      "date": "30/09/2026",
-      "url": "https://fotopix.com.br/album/285318"
     }
   ]
 }

@@ -1,6 +1,13 @@
 {
-  "updatedAt": "2026-10-19T07:20:09-03:00",
+  "updatedAt": "2026-10-19T18:40:10-03:00",
   "albums": [
+    {
+      "id": "2964ca",
+      "emoji": "🌆",
+      "title": "Treino Beira Mar Corrida Tarde|Noite - Fortaleza",
+      "date": "19/10/2026",
+      "url": "https://fotopix.com.br/album/2964ca"
+    },
     {
       "id": "28c454",
       "emoji": "🌊",
@@ -98,13 +105,6 @@
       "title": "Treino Beira Mar Corrida Tarde|Noite - Fortaleza",
       "date": "13/10/2026",
       "url": "https://fotopix.com.br/album/28c41b"
-    },
-    {
-      "id": "28c3eb",
-      "emoji": "🌊",
-      "title": "Treino Beira Mar Corrida Manhã - Fortaleza",
-      "date": "13/10/2026",
-      "url": "https://fotopix.com.br/album/28c3eb"
     }
   ]
 }

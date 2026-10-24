@@ -1,6 +1,13 @@
 {
-  "updatedAt": "2026-10-23T20:00:12-03:00",
+  "updatedAt": "2026-10-24T07:00:13-03:00",
   "albums": [
+    {
+      "id": "29a671",
+      "emoji": "🛣",
+      "title": "Treino Washington Soares Corrida Manhã - Fortaleza",
+      "date": "24/10/2026",
+      "url": "https://fotopix.com.br/album/29a671"
+    },
     {
       "id": "2964fc",
       "emoji": "🌆",
@@ -98,13 +105,6 @@
       "title": "Treino Beira Mar Corrida Manhã - Fortaleza",
       "date": "18/10/2026",
       "url": "https://fotopix.com.br/album/28c412"
-    },
-    {
-      "id": "28c430",
-      "emoji": "🌆",
-      "title": "Treino Beira Mar Corrida Tarde|Noite - Fortaleza",
-      "date": "17/10/2026",
-      "url": "https://fotopix.com.br/album/28c430"
     }
   ]
 }

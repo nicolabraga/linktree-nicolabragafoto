@@ -1,6 +1,13 @@
 {
-  "updatedAt": "2026-10-24T07:00:13-03:00",
+  "updatedAt": "2026-10-24T08:00:14-03:00",
   "albums": [
+    {
+      "id": "296523",
+      "emoji": "🌊",
+      "title": "Treino Beira Mar Corrida Manhã - Fortaleza",
+      "date": "24/10/2026",
+      "url": "https://fotopix.com.br/album/296523"
+    },
     {
       "id": "29a671",
       "emoji": "🛣",
@@ -98,13 +105,6 @@
       "title": "19º Corrida Unimed Fortaleza - 2026 - Fortaleza",
       "date": "18/10/2026",
       "url": "https://fotopix.com.br/album/2958ce"
-    },
-    {
-      "id": "28c412",
-      "emoji": "🌊",
-      "title": "Treino Beira Mar Corrida Manhã - Fortaleza",
-      "date": "18/10/2026",
-      "url": "https://fotopix.com.br/album/28c412"
     }
   ]
 }

@@ -244,6 +244,27 @@ body {
   font-size: 18px;
 }
 
+/* Botão de orçamento (WhatsApp) */
+.link-card.cta-orcamento {
+  background: linear-gradient(135deg, rgba(37, 211, 102, 0.18), rgba(18, 140, 126, 0.18));
+  border: 1px solid rgba(37, 211, 102, 0.45);
+  font-size: 16.5px;
+  padding: 18px 18px;
+}
+
+.link-card.cta-orcamento:hover {
+  background: linear-gradient(135deg, rgba(37, 211, 102, 0.26), rgba(18, 140, 126, 0.26));
+  border-color: rgba(37, 211, 102, 0.7);
+}
+
+.link-card.cta-orcamento .link-icon {
+  background: linear-gradient(135deg, #25d366, #128c7e);
+}
+
+.link-card.cta-orcamento small {
+  color: var(--text-secondary);
+}
+
 /* ---------- Divider ---------- */
 
 .divider {

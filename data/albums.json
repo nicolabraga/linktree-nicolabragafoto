@@ -1,6 +1,13 @@
 {
-  "updatedAt": "2026-11-14T07:40:18-03:00",
+  "updatedAt": "2026-11-14T09:20:09-03:00",
   "albums": [
+    {
+      "id": "2af9ca",
+      "emoji": "📷",
+      "title": "SUPER TREINO PACESPORTS Corrida Manhã - Fortaleza",
+      "date": "14/11/2026",
+      "url": "https://fotopix.com.br/album/2af9ca"
+    },
     {
       "id": "2a42a5",
       "emoji": "🌊",
@@ -98,13 +105,6 @@
       "title": "Treino Beira Mar Corrida Manhã - Fortaleza",
       "date": "08/11/2026",
       "url": "https://fotopix.com.br/album/2a3bf3"
-    },
-    {
-      "id": "2a64f7",
-      "emoji": "🏁",
-      "title": "2ª Edição Circuito do Aço - 2026 - Fortaleza",
-      "date": "08/11/2026",
-      "url": "https://fotopix.com.br/album/2a64f7"
     }
   ]
 }

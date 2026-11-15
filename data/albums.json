@@ -1,6 +1,20 @@
 {
-  "updatedAt": "2026-11-15T08:20:08-03:00",
+  "updatedAt": "2026-11-15T09:00:12-03:00",
   "albums": [
+    {
+      "id": "2a6525",
+      "emoji": "🏃",
+      "title": "Track&Field Run Series RioMar Fortaleza II - 2026 - Fortaleza",
+      "date": "15/11/2026",
+      "url": "https://fotopix.com.br/album/2a6525"
+    },
+    {
+      "id": "2b0b8c",
+      "emoji": "🏅",
+      "title": "Maratona Cometa Fortaleza Corrida - 2026 - Fortaleza",
+      "date": "15/11/2026",
+      "url": "https://fotopix.com.br/album/2b0b8c"
+    },
     {
       "id": "2a42a8",
       "emoji": "🌊",
@@ -91,20 +105,6 @@
       "title": "Treino Sabiaguaba Ciclismo CE010 - Fortaleza",
       "date": "10/11/2026",
       "url": "https://fotopix.com.br/album/2a427f"
-    },
-    {
-      "id": "2a42ab",
-      "emoji": "🌆",
-      "title": "Treino Beira Mar Corrida Tarde|Noite - Fortaleza",
-      "date": "09/11/2026",
-      "url": "https://fotopix.com.br/album/2a42ab"
-    },
-    {
-      "id": "2a428c",
-      "emoji": "🌊",
-      "title": "Treino Beira Mar Corrida Manhã - Fortaleza",
-      "date": "09/11/2026",
-      "url": "https://fotopix.com.br/album/2a428c"
     }
   ]
 }

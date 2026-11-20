@@ -1,6 +1,13 @@
 {
-  "updatedAt": "2026-11-20T08:00:23-03:00",
+  "updatedAt": "2026-11-20T08:40:11-03:00",
   "albums": [
+    {
+      "id": "2a6539",
+      "emoji": "📷",
+      "title": "LIVE! 21K Fortaleza - 2026 - Fortaleza",
+      "date": "20/11/2026",
+      "url": "https://fotopix.com.br/album/2a6539"
+    },
     {
       "id": "2a63c2",
       "emoji": "🌊",
@@ -98,13 +105,6 @@
       "title": "Maratona Cometa Fortaleza Corrida - 2026 - Fortaleza",
       "date": "15/11/2026",
       "url": "https://fotopix.com.br/album/2b0b8c"
-    },
-    {
-      "id": "2a42a8",
-      "emoji": "🌊",
-      "title": "Treino Beira Mar Corrida Manhã - Fortaleza",
-      "date": "15/11/2026",
-      "url": "https://fotopix.com.br/album/2a42a8"
     }
   ]
 }

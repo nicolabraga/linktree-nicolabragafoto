@@ -1,6 +1,20 @@
 {
-  "updatedAt": "2026-11-24T19:20:13-03:00",
+  "updatedAt": "2026-11-25T08:00:26-03:00",
   "albums": [
+    {
+      "id": "2a63cc",
+      "emoji": "🌊",
+      "title": "Treino Beira Mar Corrida Manhã - Fortaleza",
+      "date": "25/11/2026",
+      "url": "https://fotopix.com.br/album/2a63cc"
+    },
+    {
+      "id": "2b6498",
+      "emoji": "📷",
+      "title": "Treino Ibiratemi Corrida Manhã - Fortaleza",
+      "date": "25/11/2026",
+      "url": "https://fotopix.com.br/album/2b6498"
+    },
     {
       "id": "2a63f0",
       "emoji": "🌆",
@@ -91,20 +105,6 @@
       "title": "Treino Ibiratemi Corrida Manhã - Fortaleza",
       "date": "21/11/2026",
       "url": "https://fotopix.com.br/album/2b644a"
-    },
-    {
-      "id": "2a63e7",
-      "emoji": "🌆",
-      "title": "Treino Beira Mar Corrida Tarde|Noite - Fortaleza",
-      "date": "20/11/2026",
-      "url": "https://fotopix.com.br/album/2a63e7"
-    },
-    {
-      "id": "2a6539",
-      "emoji": "📷",
-      "title": "LIVE! 21K Fortaleza - 2026 - Fortaleza",
-      "date": "20/11/2026",
-      "url": "https://fotopix.com.br/album/2a6539"
     }
   ]
 }
